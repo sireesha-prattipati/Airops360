@@ -1,0 +1,6 @@
+flight_id,flight_date,origin,destination,departure_time,arrival_time,status,delay_minutes,weather_condition,aircraft_type
+AA101,2025-06-01,DAL,LAX,08:00,10:30,On Time,0,Clear,Boeing 737
+AA102,2025-06-01,LAX,DAL,12:00,16:00,Delayed,30,Rain,Airbus A320
+AA103,2025-06-01,DAL,ORD,15:00,17:30,Delayed,45,Thunderstorm,Boeing 737
+AA104,2025-06-01,ORD,DAL,18:00,20:30,On Time,0,Cloudy,Airbus A319
+AA105,2025-06-01,DAL,ATL,21:00,23:00,Cancelled,,Fog,Boeing 737
